@@ -1,0 +1,11 @@
+.DS_Store
+.vscode
+node_modules/
+db/
+logs.txt
+debug.txt
+info.txt
+errors.txt
+warnings.txt
+dev/
+node_modules
